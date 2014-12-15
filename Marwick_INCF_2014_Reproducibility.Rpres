@@ -120,13 +120,13 @@ What am I doing to encourage sharing?
 ========================================================
 Using literate statistical programming
 
-Using an open source programming language
+Using an [open source programming language](http://www.r-project.org/)
 
-Using an open document formatting language
+Using an [open document formatting language](http://rmarkdown.rstudio.com/)
 
-Using version control 
+Using [version control](http://git-scm.com/) 
 
-Using dynamic documents
+Using [dynamic documents](http://yihui.name/knitr/)
 
 ***
              
@@ -198,7 +198,7 @@ Use the Center for Open Science's badges
 <img src="figures/badges.png" alt="alt text" width="800">
 
 
-An **incentive** to share data and code by acknowledging open practices with badges in publications. Currently used by _Psychological Science_
+An **[incentive](https://osf.io/tvyxz/wiki/1.%20View%20the%20Badges/)** to share data and code by acknowledging open practices with badges in publications. Currently used by _Psychological Science_
 
 
 Integrate these values into everyday tasks
@@ -210,7 +210,7 @@ Integrate these values into everyday tasks
 - Critically review & audit **data management plans** in grant proposals
 - Consider reproducibility wherever possible in **hiring, promotion & reference letters**.
 
-Thanks.
+
 ========================================================
 >"Abandoning the habit of secrecy in favor of process transparency and peer review was the crucial step by which alchemy became chemistry."
 ---
