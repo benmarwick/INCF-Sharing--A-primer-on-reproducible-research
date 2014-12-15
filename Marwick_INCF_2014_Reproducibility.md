@@ -216,15 +216,13 @@ Thanks.
 ---
 <small><small>-Raymond, E. S., 2004, The art of UNIX programming: Addison-Wesley.</small></small>
 
-
-
 Colophon
 ========================================================
 Presentation written in [Markdown](http://daringfireball.net/projects/markdown/) ([R Presentation](http://www.rstudio.com/ide/docs/presentations/overview))
 
 Compiled into HTML5 using [RStudio](http://www.rstudio.com/ide/)
 
-Source code hosting:
+Source code hosting: https://github.com/benmarwick/INCF-Sharing--A-primer-on-reproducible-research
 
 
 ORCID: http://orcid.org/0000-0001-7879-4531
